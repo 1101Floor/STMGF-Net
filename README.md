@@ -1,1 +1,1 @@
-# STGMF-Net
+# STMGF-Net
